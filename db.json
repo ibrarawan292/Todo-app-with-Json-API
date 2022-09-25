@@ -1,0 +1,103 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": "Gwenborough",
+      "phone": "1-770-736-8031 x56442",
+      "status": "inactive"
+    },
+    {
+        "id": 2,
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "email": "Shanna@melissa.tv",
+      "address": "Wisokyburgh",
+      "phone": "1-736-8031 x56442",
+      "status": "inactive"
+    },
+    {
+      "id": 3,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": "Gwenborough",
+      "phone": "1-770-736-8031 x56442",
+      "status": "inactive"
+    },
+    {
+      "id": 4,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": "Gwenborough",
+      "phone": "1-770-736-8031 x56442",
+      "status": "inactive"
+    },
+    {
+      "id": 5,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": "Gwenborough",
+      "phone": "1-770-736-8031 x56442",
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": "Gwenborough",
+      "phone": "1-770-736-8031 x56442",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": "Gwenborough",
+      "phone": "1-770-736-8031 x56442",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": "Gwenborough",
+      "phone": "1-770-736-8031 x56442",
+      "status": "active"
+    },
+    {
+      "id": 9,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": "Gwenborough",
+      "phone": "1-770-736-8031 x56442",
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": "Gwenborough",
+      "phone": "1-770-736-8031 x56442",
+      "status": "active"
+    },
+    {
+      "id": 11,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": "Gwenborough",
+      "phone": "1-770-736-8031 x56442",
+      "status": "active"
+    }
+  ]
+}
